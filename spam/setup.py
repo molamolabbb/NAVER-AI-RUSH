@@ -18,5 +18,6 @@ setup(
                       'requests==2.24.0',
                       'tqdm==4.46.1',
                       'wget==3.2',
-                      'visdom==0.1.8.9']
+                      'visdom==0.1.8.9'
+                      ]
 )
